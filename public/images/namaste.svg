@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 144" fill="none" stroke="#edcc8c" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+  <title>Folded hands in namaste</title>
+  <g id="palm">
+    <path d="M64 26c0-7-7-8-9-1L44 62l-8 17c-4 9-1 17 5 24l9 12 14-18V26Z"/>
+    <path d="m43 82 12-20c4-6 10-3 7 4L53 88"/>
+    <path d="m35 109 13-9 13 22-13 9-13-22Z"/>
+    <path d="m42 113 9 14"/>
+  </g>
+  <use href="#palm" transform="translate(128 0) scale(-1 1)"/>
+  <path d="M64 5v8M40 11l4 7M88 11l-4 7M22 29l7 4M106 29l-7 4" stroke-width="1.7"/>
+</svg>
